@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.lulubugqu-portfolio.com/" target="blank">
+  <a href="https://lulubugqu.github.io/" target="blank">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=white" alt="Website">
   </a>
   
