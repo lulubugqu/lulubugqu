@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   I am a new grad from University of Minnesota with a BS in Computer Science.
 </h4>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmMwcnRqdGd5YXdldHN0N2ZqMnh5dXh1aDBqaWUwOThveWVpazJsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jqCHIqg0c2il5T9Fuj/giphy.webp" width ="70">&nbsp; ***Connect with Me***
+***Connect with Me***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="badges">
